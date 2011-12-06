@@ -1,0 +1,10 @@
+Title: Facilities for reading Keynote presentation files in R
+Description: This package provides the basic framework for accessing
+ content of Keynote files.
+Maintainer: Duncan Temple Lang <duncan@wald.ucdavis.edu>
+Author: Duncan Temple Lang <duncan@wald.ucdavis.edu>
+License: BSD
+Imports: XML
+Depends: Rcompression
+Package: RKeynote
+Version: 0.1-0
